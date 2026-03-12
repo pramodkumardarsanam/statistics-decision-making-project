@@ -30,3 +30,7 @@ The analysis shows that the average property price is approximately 1,075,684. P
 
 ## Author
 Pramod Kumar
+README.md
+property.csv
+Statistics_for_Decision_Making_Project.ipynb
+Statistics_for_Decision_Making_Project.html
