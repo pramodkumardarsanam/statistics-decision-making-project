@@ -29,8 +29,5 @@ The following statistical techniques were applied:
 The analysis shows that the average property price is approximately 1,075,684. Properties with more rooms generally tend to have higher prices. The hypothesis test confirms that the average property price is significantly different from 1,000,000.
 
 ## Author
-Pramod Kumar
-README.md
-property.csv
-Statistics_for_Decision_Making_Project.ipynb
-Statistics_for_Decision_Making_Project.html
+Pramod Kumar Darsanam
+
